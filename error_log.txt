@@ -1,0 +1,71 @@
+[30-Oct-2015 02:29:01 Europe/Berlin] PHP Fatal error:  Class 'Teste' not found in C:\xampp\htdocs\phpOopApp\index.php on line 28
+[30-Oct-2015 02:39:05 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:39:44 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:39:44 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:41:06 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:41:11 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:41:12 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:41:24 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 26
+[30-Oct-2015 02:42:02 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[30-Oct-2015 02:42:03 Europe/Berlin] PHP Fatal error:  Class 'TApp' not found in C:\xampp\htdocs\phpOopApp\index.php on line 27
+[31-Oct-2015 14:54:33 Europe/Berlin] PHP Notice:  Undefined variable: strtolower in C:\xampp\htdocs\mvc\libs\TApp.php on line 19
+[31-Oct-2015 14:54:33 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\xampp\htdocs\mvc\libs\TApp.php on line 19
+[31-Oct-2015 15:00:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\mvc\libs\TApp.php on line 24
+[31-Oct-2015 15:26:18 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\libs\TApp.php on line 47
+[31-Oct-2015 15:27:29 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\mvc\libs\TApp.php on line 45
+[31-Oct-2015 15:27:29 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\libs\TApp.php on line 47
+[31-Oct-2015 15:55:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\mvc\libs\TApp.php on line 46
+[31-Oct-2015 15:55:21 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\libs\TApp.php on line 48
+[31-Oct-2015 15:56:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\mvc\libs\TApp.php on line 46
+[31-Oct-2015 15:56:06 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\libs\TApp.php on line 48
+[31-Oct-2015 19:25:01 Europe/Berlin] PHP Notice:  Use of undefined constant params - assumed 'params' in C:\xampp\htdocs\mvc\libs\TApp.php on line 80
+[31-Oct-2015 19:25:01 Europe/Berlin] PHP Notice:  Object of class TApp could not be converted to int in C:\xampp\htdocs\mvc\libs\TApp.php on line 80
+[31-Oct-2015 19:40:47 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 19:46:07 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 19:46:10 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 19:46:58 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 19:56:11 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\mvc\libs\TApp.php on line 38
+[31-Oct-2015 19:57:08 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 20:01:59 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 20:02:01 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 20:03:32 Europe/Berlin] PHP Fatal error:  Call to undefined function arry() in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 62
+[31-Oct-2015 20:03:56 Europe/Berlin] PHP Warning:  include_once(./gui/layoutTOpo.php): failed to open stream: No such file or directory in C:\xampp\htdocs\mvc\gui\TGui.php on line 18
+[31-Oct-2015 20:03:56 Europe/Berlin] PHP Warning:  include_once(): Failed opening './gui/layoutTOpo.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\mvc\gui\TGui.php on line 18
+[31-Oct-2015 20:03:56 Europe/Berlin] PHP Warning:  include_once(./gui/layoutRodape.php): failed to open stream: No such file or directory in C:\xampp\htdocs\mvc\gui\TGui.php on line 24
+[31-Oct-2015 20:03:56 Europe/Berlin] PHP Warning:  include_once(): Failed opening './gui/layoutRodape.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\mvc\gui\TGui.php on line 24
+[31-Oct-2015 20:06:33 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 20:10:43 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\mvc\libs\Conexao.php on line 17
+[31-Oct-2015 20:11:00 Europe/Berlin] PHP Warning:  include_once(./gui/layoutTOpo.php): failed to open stream: No such file or directory in C:\xampp\htdocs\mvc\gui\TGui.php on line 18
+[31-Oct-2015 20:11:00 Europe/Berlin] PHP Warning:  include_once(): Failed opening './gui/layoutTOpo.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\mvc\gui\TGui.php on line 18
+[31-Oct-2015 20:11:00 Europe/Berlin] PHP Warning:  include_once(./gui/layoutRodape.php): failed to open stream: No such file or directory in C:\xampp\htdocs\mvc\gui\TGui.php on line 24
+[31-Oct-2015 20:11:00 Europe/Berlin] PHP Warning:  include_once(): Failed opening './gui/layoutRodape.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\mvc\gui\TGui.php on line 24
+[31-Oct-2015 20:29:53 Europe/Berlin] PHP Notice:  Use of undefined constant Usuario - assumed 'Usuario' in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 64
+[31-Oct-2015 20:29:53 Europe/Berlin] PHP Warning:  get_class() expects parameter 1 to be object, string given in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 64
+[31-Oct-2015 20:29:53 Europe/Berlin] PHP Fatal error:  Class '' not found in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 64
+[31-Oct-2015 20:30:01 Europe/Berlin] PHP Fatal error:  Undefined constant 'Usuario' in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 64
+[01-Nov-2015 12:20:26 Europe/Berlin] PHP Notice:  Use of undefined constant URL - assumed 'URL' in C:\xampp\htdocs\mvc\gui\listaDeUsuarios.php on line 2
+[01-Nov-2015 12:35:13 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\to\ControleUsuario.php on line 22
+[01-Nov-2015 12:35:26 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\to\ControleUsuario.php on line 37
+[01-Nov-2015 12:35:29 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\to\ControleUsuario.php on line 22
+[01-Nov-2015 12:35:45 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\to\ControleUsuario.php on line 22
+[01-Nov-2015 12:35:51 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\to\ControleUsuario.php on line 37
+[01-Nov-2015 12:37:46 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\mvc\to\ControleUsuario.php on line 39
+[01-Nov-2015 12:43:35 Europe/Berlin] PHP Notice:  Use of undefined constant Usuario - assumed 'Usuario' in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 46
+[01-Nov-2015 12:43:35 Europe/Berlin] PHP Warning:  get_class() expects parameter 1 to be object, string given in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 46
+[01-Nov-2015 12:43:35 Europe/Berlin] PHP Fatal error:  Class '' not found in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 46
+[01-Nov-2015 15:57:23 Europe/Berlin] PHP Warning:  include_once(./gui/layoutTOpo.php): failed to open stream: No such file or directory in C:\xampp\htdocs\mvc\libs\TGui.php on line 19
+[01-Nov-2015 15:57:23 Europe/Berlin] PHP Warning:  include_once(): Failed opening './gui/layoutTOpo.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\mvc\libs\TGui.php on line 19
+[01-Nov-2015 15:57:23 Europe/Berlin] PHP Warning:  include_once(./gui/layoutRodape.php): failed to open stream: No such file or directory in C:\xampp\htdocs\mvc\libs\TGui.php on line 25
+[01-Nov-2015 15:57:23 Europe/Berlin] PHP Warning:  include_once(): Failed opening './gui/layoutRodape.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\mvc\libs\TGui.php on line 25
+[01-Nov-2015 16:02:46 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:03:02 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:15:59 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in C:\xampp\htdocs\mvc\dao\DaoUsuario.php on line 122
+[01-Nov-2015 16:16:11 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:27:33 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:27:43 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:27:55 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:28:14 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:36:36 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 16:38:45 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 21:12:57 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
+[01-Nov-2015 21:13:28 Europe/Berlin] PHP Notice:  Undefined index: usuario in C:\xampp\htdocs\mvc\libs\TApp.php on line 76
